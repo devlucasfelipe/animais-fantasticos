@@ -36,7 +36,6 @@ modal.init();
 
 const tooltip = new Tooltip("[data-tooltip]");
 tooltip.init();
-console.log(tooltip);
 
 initDropdownMenu();
 initMenuMobile();
