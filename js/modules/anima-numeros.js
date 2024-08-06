@@ -1,3 +1,7 @@
+/* eslint-disable function-paren-newline */
+/* eslint-disable comma-dangle */
+/* eslint-disable arrow-parens */
+/* eslint-disable implicit-arrow-linebreak */
 export default class AnimaNumeros {
   constructor(numeros, observerTarget, observerClass) {
     this.numeros = document.querySelectorAll(numeros);
